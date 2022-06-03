@@ -34,10 +34,15 @@ h1{
     padding:5px 20px 5px 35px;
 }
 .entrada{
+    border-radius: 5px;
+    border: 1px solid #b87803;
     padding:5PX ;
     outline: 0;
     width: 80%;
     margin: 20px;
+}
+.entrada:focus{
+    box-shadow: 0 0 5px 4px #b87803;
 }
 #calcular{
   border-radius: 10%;
