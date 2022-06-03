@@ -1,0 +1,1 @@
+# meu-ganho-por-hora
